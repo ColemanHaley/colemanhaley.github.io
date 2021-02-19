@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Coleman Haley</title>
     <link>https://colemanhaley.com/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Coleman Haley</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://colemanhaley.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://colemanhaley.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep neural networks easily learn unnatural infixation and reduplication patterns</title>
+      <link>https://colemanhaley.com/publications/haley-wilson-2021-unnatural/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://colemanhaley.com/publications/haley-wilson-2021-unnatural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphology Matters: A Multilingual Language Modeling Analysis</title>
+      <link>https://colemanhaley.com/publications/park-et-al-2020-matters/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://colemanhaley.com/publications/park-et-al-2020-matters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invertible Tree Embeddings using a Cryptographic Role Embedding Scheme</title>
+      <link>https://colemanhaley.com/publications/haley-smolensky-2020-invertible/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://colemanhaley.com/publications/haley-smolensky-2020-invertible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is a BERT. Now there are several of them. Can they generalize to novel words?</title>
+      <link>https://colemanhaley.com/publications/haley-2020-bert/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://colemanhaley.com/publications/haley-2020-bert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Polysynthetic Language Modeling</title>
+      <link>https://colemanhaley.com/publications/schwartz-et-al-2020-polysynthetic/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://colemanhaley.com/publications/schwartz-et-al-2020-polysynthetic/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

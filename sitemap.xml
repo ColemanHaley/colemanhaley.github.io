@@ -3,21 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://colemanhaley.com/blog/</loc>
+    <loc>https://colemanhaley.com/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://colemanhaley.com/publications/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://colemanhaley.com/publications/haley-wilson-2021-unnatural/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://colemanhaley.com/publications/park-et-al-2020-matters/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://colemanhaley.com/publications/haley-smolensky-2020-invertible/</loc>
+    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://colemanhaley.com/publications/haley-2020-bert/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://colemanhaley.com/publications/schwartz-et-al-2020-polysynthetic/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://colemanhaley.com/blog/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://colemanhaley.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://colemanhaley.com/</loc>
   </url>
   
   <url>
