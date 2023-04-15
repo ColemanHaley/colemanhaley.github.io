@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/coleman/Documents/professional/personal-site",
+	"sourceRoot": "/Users/coleman/site/personal-site",
 	"sources": [
 		"assets/css/main.scss",
 		"assets/css/hamburgers/hamburgers/hamburgers.scss",
