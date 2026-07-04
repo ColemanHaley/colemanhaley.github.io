@@ -3,12 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://colemanhaley.com/</loc>
-    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://colemanhaley.com/publications/</loc>
-    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://colemanhaley.com/publications/janarthan-et-al-2026-transformers/</loc>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://colemanhaley.com/publications/haley-2026-computational/</loc>
+    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://colemanhaley.com/publications/gay-et-al-2026-information/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://colemanhaley.com/publications/japadj/</loc>
     <lastmod>2025-07-30T00:00:00+00:00</lastmod>
@@ -50,10 +57,8 @@
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://colemanhaley.com/blog/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://colemanhaley.com/inflection-derivation-scil-2023/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://colemanhaley.com/categories/</loc>
   </url><url>

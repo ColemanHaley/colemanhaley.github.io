@@ -4,125 +4,121 @@
     <title>Coleman Haley</title>
     <link>https://colemanhaley.com/publications/</link>
     <description>Recent content on Coleman Haley</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://colemanhaley.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://colemanhaley.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When transformers learn&#34; impossible&#34; languages, what do they learn?</title>
+      <link>https://colemanhaley.com/publications/janarthan-et-al-2026-transformers/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://colemanhaley.com/publications/janarthan-et-al-2026-transformers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A computational approach to typological comparative concepts for lexicality</title>
+      <link>https://colemanhaley.com/publications/haley-2026-computational/</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://colemanhaley.com/publications/haley-2026-computational/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Is Information Density Uniform when Utterances are Grounded on Perception and Discourse?</title>
+      <link>https://colemanhaley.com/publications/gay-et-al-2026-information/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://colemanhaley.com/publications/gay-et-al-2026-information/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Visual groundedness as an organizing principle for word class: Evidence from Japanese</title>
       <link>https://colemanhaley.com/publications/japadj/</link>
       <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://colemanhaley.com/publications/japadj/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Unlocking finite-state morphological transducers: Derivational networks for Inuit-Yupik languages</title>
       <link>https://colemanhaley.com/publications/yupikder/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://colemanhaley.com/publications/yupikder/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>A Grounded Typology of Word Classes</title>
       <link>https://colemanhaley.com/publications/groundedtyp/</link>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://colemanhaley.com/publications/groundedtyp/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Corpus-based measures discriminate inflection and derivation cross-linguistically</title>
       <link>https://colemanhaley.com/publications/corpus-based/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://colemanhaley.com/publications/corpus-based/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The unreasonable effectiveness of large language models for low-resource clause-level morphology: In-context generalization or prior exposure?</title>
       <link>https://colemanhaley.com/publications/americas2024/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://colemanhaley.com/publications/americas2024/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Communicative Efficiency or Iconic Learning: Do Acquisition and Communicative Pressures Interact to Shape Colour- Naming Systems?</title>
       <link>https://colemanhaley.com/publications/gyevnar-et-al-2022-matters/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://colemanhaley.com/publications/gyevnar-et-al-2022-matters/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>How to encode arbitrarily complex morphology in word embeddings, no corpus needed</title>
       <link>https://colemanhaley.com/publications/schwartz-et-al-2022/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://colemanhaley.com/publications/schwartz-et-al-2022/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Structural Biases for Improving Transformers on Translation into Morphologically Rich Languages</title>
       <link>https://colemanhaley.com/publications/soulos-et-al-2022/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://colemanhaley.com/publications/soulos-et-al-2022/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Deep neural networks easily learn unnatural infixation and reduplication patterns</title>
       <link>https://colemanhaley.com/publications/haley-wilson-2021-unnatural/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://colemanhaley.com/publications/haley-wilson-2021-unnatural/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Morphology Matters: A Multilingual Language Modeling Analysis</title>
       <link>https://colemanhaley.com/publications/park-et-al-2020-matters/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://colemanhaley.com/publications/park-et-al-2020-matters/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Invertible Tree Embeddings using a Cryptographic Role Embedding Scheme</title>
       <link>https://colemanhaley.com/publications/haley-smolensky-2020-invertible/</link>
       <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://colemanhaley.com/publications/haley-smolensky-2020-invertible/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>This is a BERT. Now there are several of them. Can they generalize to novel words?</title>
       <link>https://colemanhaley.com/publications/haley-2020-bert/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://colemanhaley.com/publications/haley-2020-bert/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Neural Polysynthetic Language Modeling</title>
       <link>https://colemanhaley.com/publications/schwartz-et-al-2020-polysynthetic/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://colemanhaley.com/publications/schwartz-et-al-2020-polysynthetic/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
